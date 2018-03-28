@@ -1,0 +1,7 @@
+D:\Niklas\Tactilis\Tactilis\Tactilis\bin\Debug\Tactilis.exe.config
+D:\Niklas\Tactilis\Tactilis\Tactilis\bin\Debug\Tactilis.exe
+D:\Niklas\Tactilis\Tactilis\Tactilis\bin\Debug\Tactilis.pdb
+D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.csprojResolveAssemblyReference.cache
+D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.csproj.CoreCompileInputs.cache
+D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.exe
+D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.pdb
