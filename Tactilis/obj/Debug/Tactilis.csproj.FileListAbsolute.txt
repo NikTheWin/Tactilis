@@ -5,3 +5,10 @@ D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.csprojResolveAssemblyRef
 D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.csproj.CoreCompileInputs.cache
 D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.exe
 D:\Niklas\Tactilis\Tactilis\Tactilis\obj\Debug\Tactilis.pdb
+E:\GitHub\Tactilis\Tactilis\bin\Debug\Tactilis.exe.config
+E:\GitHub\Tactilis\Tactilis\bin\Debug\Tactilis.exe
+E:\GitHub\Tactilis\Tactilis\bin\Debug\Tactilis.pdb
+E:\GitHub\Tactilis\Tactilis\obj\Debug\Tactilis.csprojResolveAssemblyReference.cache
+E:\GitHub\Tactilis\Tactilis\obj\Debug\Tactilis.csproj.CoreCompileInputs.cache
+E:\GitHub\Tactilis\Tactilis\obj\Debug\Tactilis.exe
+E:\GitHub\Tactilis\Tactilis\obj\Debug\Tactilis.pdb
